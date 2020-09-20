@@ -12,3 +12,4 @@ Questions:
 -do channels with trending videos keep producing trending videos? in how often of interval?
 -correlation of trending videos and number of subscribers the channel has? (we probably need
  to use some youtube api to get these info)
+ Figure out the distribution of attributes for trending video:"views", "comments" and "likes".
