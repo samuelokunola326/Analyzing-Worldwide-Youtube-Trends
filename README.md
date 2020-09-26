@@ -5,7 +5,11 @@ Team Member: Mark
 <<<<<<< HEAD
 test line -sam
 =======
+<<<<<<< HEAD
 >>>>>>> dd2687a92a1a7065dbad4e2d669e9c15fd0a5156
+=======
+>>>>>>> d5e8270a118dbeec1961d019e7d7ae446e28f025
+>>>>>>> master
 # hello
 # test
 <<<<<<< HEAD
@@ -30,4 +34,8 @@ test line -sam
     -JD Kwak
     -Sabikha Khatun
 >>>>>>> jd-branch
+<<<<<<< HEAD
 >>>>>>> dd2687a92a1a7065dbad4e2d669e9c15fd0a5156
+=======
+>>>>>>> d5e8270a118dbeec1961d019e7d7ae446e28f025
+>>>>>>> master
