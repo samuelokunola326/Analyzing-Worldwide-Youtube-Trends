@@ -13,7 +13,7 @@ Questions:
 -Any correlation present between trending videos and number of dislikes? how does number
  of dislikes work with trending videos?
 
-	-Are videos removed due to number of dislikes? what about the videos that have comments blocked?
+-Are videos removed due to number of dislikes? what about the videos that have comments blocked?
 
 -Do channels with trending videos keep producing trending videos? in how often of interval?
 
