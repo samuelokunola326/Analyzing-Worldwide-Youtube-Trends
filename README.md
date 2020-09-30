@@ -1,6 +1,5 @@
 # Project Information
-    Analyzing Youtube trending video statistics data
-    from 11.14.17 to 06.14.18
+    Analyzing Youtube trending video statistics data from 11.14.17 to 06.14.18
 
     All json and csv files are provided from the link below:
     https://www.kaggle.com/datasnaek/youtube-new?select=USvideos.csv
