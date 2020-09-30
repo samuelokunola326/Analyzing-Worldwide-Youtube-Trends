@@ -1,4 +1,6 @@
-# Group6_Project
-# hello
-# test
-# 2
+# Group Members:
+    -Max Izotov
+    -Mark Gu
+    -Samuel Okunola
+    -JD Kwak
+    -Sabikha Khatun
