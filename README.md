@@ -1,8 +1,5 @@
 # Analyzing Worldwide Youtube Trends 
-    We analyzed Youtube trending video statistics data from 11.14.17 to 06.14.18. Our team looked at what categories of videos are most popular in the 10 most active countries for Youtube users. We then examined how viewers in different countries interact with content differently (likes, dislikes, comments, etc...)
-
-    All json and csv files are provided from the link below:
-    https://www.kaggle.com/datasnaek/youtube-new?select=USvideos.csv
+We analyzed Youtube trending video statistics data from 11.14.17 to 06.14.18. Our team looked at what categories of videos are most popular in the 10 most active countries for Youtube users. We then examined how viewers in different countries interact with content differently (likes, dislikes, comments, etc...)
 
 ## Our Process
 * We tried to answer the following questions while conducting our data analysis: 
@@ -27,9 +24,13 @@
 ### View Count by Country 
 ![views_count_by_country](visuals/screenshots/view_count_by_country.png)
 
-# Team Members
-    - Max Izotov
-    - Mark Gu
-    - Samuel Okunola
-    - JD Kwak
-    - Sabikha Khatun
+### Team Members
+    - Max Izotov (https://github.com/maximizo)
+    - Mark Gu (https://github.com/markgu713)
+    - Samuel Okunola (https://github.com/samuelokunola326)
+    - JD Kwak (https://github.com/jdkwak1994)
+    - Sabikha Khatun (https://github.com/Sabikha20)
+
+## Resources:
+All json and csv files are provided from the link below:
+https://www.kaggle.com/datasnaek/youtube-new?select=USvideos.csv
