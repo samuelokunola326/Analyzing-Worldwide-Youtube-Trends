@@ -25,12 +25,12 @@ We analyzed Youtube trending video statistics data from 11.14.17 to 06.14.18. Ou
 ![views_count_by_country](visuals/screenshots/view_count_by_country.png)
 
 ### Team Members:
-[Max Izotov](https://github.com/maximizo)
-[JD Kwak](https://github.com/jdkwak1994)
-[Mark Gu](https://github.com/markgu713)
-[Samuel Okunola](https://github.com/samuelokunola326)
-[Sabikha Khatun](https://github.com/Sabikha20)
++ [Max Izotov](https://github.com/maximizo)
++ [JD Kwak](https://github.com/jdkwak1994)
++ [Mark Gu](https://github.com/markgu713)
++ [Samuel Okunola](https://github.com/samuelokunola326)
++ [Sabikha Khatun](https://github.com/Sabikha20)
 
 ## Resources:
-All json and csv files are provided from the link below:
-https://www.kaggle.com/datasnaek/youtube-new?select=USvideos.csv
+All json and csv files can be found in link below:
+* https://www.kaggle.com/datasnaek/youtube-new?select=USvideos.csv
